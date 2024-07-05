@@ -1,0 +1,4 @@
+1	Honda	Move	12458.97
+2	Mountain	Dex	63529.45
+3	Rodester	Miracle	65235.49
+4	Hero	Dex	42899.37

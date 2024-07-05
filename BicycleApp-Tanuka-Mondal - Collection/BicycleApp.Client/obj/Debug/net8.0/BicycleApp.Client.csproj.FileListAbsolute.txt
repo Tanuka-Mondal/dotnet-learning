@@ -1,0 +1,40 @@
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.exe
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.deps.json
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.runtimeconfig.json
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Models.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Repository.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Repository.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Models.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.csproj.AssemblyReference.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.AssemblyInfoInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.AssemblyInfo.cs
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleA.5ECB8782.Up2Date
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\refint\BicycleApp.Client.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.genruntimeconfig.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Client\obj\Debug\net8.0\ref\BicycleApp.Client.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.exe
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.deps.json
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.runtimeconfig.json
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Client.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Models.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Repository.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Repository.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\bin\Debug\net8.0\BicycleApp.Models.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.csproj.AssemblyReference.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.AssemblyInfoInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.AssemblyInfo.cs
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleA.5ECB8782.Up2Date
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\refint\BicycleApp.Client.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\BicycleApp.Client.genruntimeconfig.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal - Collection\BicycleApp.Client\obj\Debug\net8.0\ref\BicycleApp.Client.dll
