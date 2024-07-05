@@ -1,0 +1,11 @@
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\bin\Debug\net8.0\BicycleApp.Models.deps.json
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\bin\Debug\net8.0\BicycleApp.Models.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\bin\Debug\net8.0\BicycleApp.Models.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\BicycleApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\BicycleApp.Models.AssemblyInfoInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\BicycleApp.Models.AssemblyInfo.cs
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\BicycleApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\BicycleApp.Models.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\refint\BicycleApp.Models.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\BicycleApp.Models.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Models\obj\Debug\net8.0\ref\BicycleApp.Models.dll

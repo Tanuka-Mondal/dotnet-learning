@@ -1,0 +1,4 @@
+1	Rodester	Move	2345.64
+2	Mountain	Miracle	75346.66
+3	Flying	Dex	2567.36
+4	Royal Enfield	Miracle	37546.78

@@ -1,0 +1,15 @@
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\bin\Debug\net8.0\BicycleApp.Repository.deps.json
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\bin\Debug\net8.0\BicycleApp.Repository.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\bin\Debug\net8.0\BicycleApp.Repository.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\bin\Debug\net8.0\BicycleApp.Models.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\bin\Debug\net8.0\BicycleApp.Models.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleApp.Repository.csproj.AssemblyReference.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleApp.Repository.AssemblyInfoInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleApp.Repository.AssemblyInfo.cs
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleA.779BBB9F.Up2Date
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleApp.Repository.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\refint\BicycleApp.Repository.dll
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\BicycleApp.Repository.pdb
+C:\Users\GL625TH\OneDrive - EY\Tanuka\Dotnet_Training\BicycleApp-Tanuka-Mondal\BicycleApp.Repository\obj\Debug\net8.0\ref\BicycleApp.Repository.dll
