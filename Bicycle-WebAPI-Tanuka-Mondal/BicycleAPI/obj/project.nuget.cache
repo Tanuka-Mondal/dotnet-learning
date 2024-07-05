@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLuQq1ztSB9l97C6zhT9sFkr1xGdjyjv23z10Gy9m0csIjs8oM+AWcDxm6uS5Rl3goi49tVCkwS6qlYCK59Gdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GL625TH\\OneDrive - EY\\Tanuka\\Dotnet_Training\\dotnet-backend\\Bicycle-WebAPI-Tanuka-Mondal\\BicycleAPI\\BicycleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GL625TH\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\GL625TH\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GL625TH\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\GL625TH\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\GL625TH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\GL625TH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
