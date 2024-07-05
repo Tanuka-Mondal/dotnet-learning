@@ -1,0 +1,40 @@
+﻿@model List<Bicycle>
+@{
+}
+<h2 class="text-center mb-5">List of Bicycles</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-success" asp-controller="Bicycle" asp-action="create">Add Bicycle</a>
+    </div>
+    <div class="col"></div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bicycle in Model)
+        {
+            <tr>
+                <td>@bicycle.Id</td>
+                <td>@bicycle.Name</td>
+                <td>@bicycle.Category</td>
+                <td>@bicycle.Price</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Bicycle" asp-action="Edit" 
+                    asp-route-id="@bicycle.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Bicycle" asp-action="Delete"
+                       asp-route-id="@bicycle.Id" onclick="return confirm('Are you sure?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

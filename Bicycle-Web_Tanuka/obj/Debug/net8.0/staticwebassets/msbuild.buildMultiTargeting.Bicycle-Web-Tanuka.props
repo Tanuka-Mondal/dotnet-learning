@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bicycle-Web-Tanuka.props" />
+</Project>
