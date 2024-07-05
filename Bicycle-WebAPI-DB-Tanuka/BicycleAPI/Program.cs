@@ -1,0 +1,47 @@
+
+using BicycleAPI.Context;
+using BicycleAPI.Logging;
+using BicycleAPI.Repository;
+using BicycleAPI.Services;
+using Microsoft.EntityFrameworkCore;
+
+namespace BicycleAPI
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+
+            // Add services to the container.
+
+            builder.Services.AddControllers();
+            builder.Services.AddScoped<IBicycleService, BicycleService>();
+            builder.Services.AddScoped<IBicycleRepository, BicycleRepository>();
+            string? connectionStr = builder.Configuration.GetConnectionString("bicycleConnectionString");
+            builder.Services.AddDbContext<BicycleDbContext>(o => o.UseSqlServer(connectionStr));
+            builder.Services.AddSingleton<BicycleLogger>();
+            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+
+            var app = builder.Build();
+
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
+
+            app.UseHttpsRedirection();
+
+            app.UseAuthorization();
+
+
+            app.MapControllers();
+
+            app.Run();
+        }
+    }
+}
